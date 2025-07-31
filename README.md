@@ -5,6 +5,9 @@
 This report provides a detailed analysis of the Jupyter Notebook **ML\_MAVERICKS\_DATASET\_ROAD\_ACCIDENT\_ANALYSIS**, which serves as the foundation for a machine learning project focused on emergency incident data. The notebook sets up the environment for data loading, preprocessing, exploratory analysis, and model building. This document outlines its structure, key contents, findings, and recommendations for future work.
 
 ---
+![Road Accident](https://www.svgrepo.com/show/117734/car-crash.svg)
+
+---
 
 ## Table of Contents
 

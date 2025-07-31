@@ -1,8 +1,8 @@
-# Analysis Report: ML\_MAVERICKS\_DATASET\_ROAD\_ACCIDENT\_ANALYSIS
+# Analysis Report: 
 
 ## Introduction
 
-This report provides a detailed analysis of the Jupyter Notebook **ML\_MAVERICKS\_FINAL\_PHASE.ipynb**, which serves as the foundation for a machine learning project focused on emergency incident data. The notebook sets up the environment for data loading, preprocessing, exploratory analysis, and model building. This document outlines its structure, key contents, findings, and recommendations for future work.
+This report provides a detailed analysis of the Jupyter Notebook **ML\_MAVERICKS\_DATASET\_ROAD\_ACCIDENT\_ANALYSIS**, which serves as the foundation for a machine learning project focused on emergency incident data. The notebook sets up the environment for data loading, preprocessing, exploratory analysis, and model building. This document outlines its structure, key contents, findings, and recommendations for future work.
 
 ---
 

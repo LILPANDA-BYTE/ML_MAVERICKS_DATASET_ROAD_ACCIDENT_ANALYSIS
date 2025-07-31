@@ -1,4 +1,4 @@
-# Analysis Report: ML\_MAVERICKS\_DATASET\_ROAD\_ACCIDENT\_ANALYSIS.ipynb
+# Analysis Report: ML\_MAVERICKS\_DATASET\_ROAD\_ACCIDENT\_ANALYSIS
 
 ## Introduction
 

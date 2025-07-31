@@ -6,7 +6,7 @@ This report provides a detailed analysis of the Jupyter Notebook **ML\_MAVERICKS
 
 ---
 
-![Road Accident](https://www.freedesignfile.com/blog/wp-content/uploads/2019/08/603852-traffic-accident-icon-vector-3.jpg)
+![Road Accident](https://imgk.timesnownews.com/story/1566913163-Haryana_Road_accident.jpg)
 
 ---
 

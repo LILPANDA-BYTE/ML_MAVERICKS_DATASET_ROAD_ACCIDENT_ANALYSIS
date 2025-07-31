@@ -1,3 +1,8 @@
+## License
+
+This project is licensed under the Apache License 2.0.  
+See [LICENSE](LICENSE) for details.
+
 # Analysis Report: ML\_MAVERICKS\_FINAL\_PHASE.ipynb
 
 ## Introduction
